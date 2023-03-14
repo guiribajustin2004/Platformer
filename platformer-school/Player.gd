@@ -3,7 +3,7 @@ class_name player
 
 @export var gravity = 50
 @export var speed = 100
-@export var jump_force = 700
+@export var jump_force = 800
 
 func _physics_process(delta):
 	velocity.y += gravity
