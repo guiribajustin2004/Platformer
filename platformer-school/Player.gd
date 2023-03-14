@@ -17,3 +17,5 @@ func _physics_process(delta):
 	velocity.x = direction * speed 
 	
 	move_and_slide()
+	
+# BOBO MO JUSTIN
