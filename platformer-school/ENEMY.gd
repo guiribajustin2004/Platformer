@@ -2,6 +2,7 @@ extends CharacterBody2D
 class_name enemy
 
 @onready var animation = $AnimationPlayer
+@onready var gravity = 800
 
 func _physics_process(delta):
 	
