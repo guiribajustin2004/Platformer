@@ -3,7 +3,7 @@
 [ext_resource type="Texture2D" uid="uid://d25abrpdlfktw" path="res://icon.svg" id="1_2keli"]
 [ext_resource type="Script" path="res://Player.gd" id="2_ss4lk"]
 [ext_resource type="Script" path="res://ENEMY.gd" id="3_e1c4p"]
-[ext_resource type="Script" path="res://AI.cs" id="4_6claj"]
+[ext_resource type="Script" path="res://AI.gd" id="4_b3s8x"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_px0tu"]
 size = Vector2(127.036, 130)
@@ -230,12 +230,15 @@ libraries = {
 
 [node name="AI" type="CharacterBody2D" parent="."]
 position = Vector2(280, 257)
-script = ExtResource("4_6claj")
+script = ExtResource("4_b3s8x")
 
 [node name="Sprite2D" type="Sprite2D" parent="AI"]
 texture = ExtResource("1_2keli")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="AI"]
 shape = SubResource("RectangleShape2D_dba3i")
+
+[node name="RayCast2D" type="RayCast2D" parent="AI"]
+target_position = Vector2(188, 2)
 
 [connection signal="body_entered" from="ENEMY/StaticBody2D" to="ENEMY" method="_on_static_body_2d_body_entered"]

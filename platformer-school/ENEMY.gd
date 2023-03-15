@@ -14,3 +14,6 @@ func _physics_process(delta):
 func _on_static_body_2d_body_entered(body):
 	if body is player:
 		body.queue_free()
+	if body is enemy2:
+		body.queue_free()
+		
