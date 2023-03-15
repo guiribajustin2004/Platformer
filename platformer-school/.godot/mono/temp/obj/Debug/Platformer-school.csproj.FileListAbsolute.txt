@@ -1,0 +1,17 @@
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/obj/Debug/Platformer-school.csproj.AssemblyReference.cache
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/obj/Debug/Platformer-school.GeneratedMSBuildEditorConfig.editorconfig
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/obj/Debug/Platformer-school.AssemblyInfoInputs.cache
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/obj/Debug/Platformer-school.AssemblyInfo.cs
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/obj/Debug/Platformer-school.csproj.CoreCompileInputs.cache
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/bin/Debug/Platformer-school.deps.json
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/bin/Debug/Platformer-school.runtimeconfig.json
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/bin/Debug/Platformer-school.dll
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/bin/Debug/Platformer-school.pdb
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/obj/Debug/Platformer-school.csproj.CopyComplete
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/obj/Debug/Platformer-school.dll
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/obj/Debug/refint/Platformer-school.dll
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/obj/Debug/Platformer-school.pdb
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/obj/Debug/Platformer-school.genruntimeconfig.cache
+/home/parrot/Documents/GitHub/Platformer/Platformer/platformer-school/.godot/mono/temp/obj/Debug/ref/Platformer-school.dll
