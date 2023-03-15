@@ -1,0 +1,7 @@
+2a60927148abd1d33b818b535e306557
+::res://::1678848044
+AI.cs::CSharpScript::-1::1678847637::0::1::::<><>::
+ENEMY.gd::GDScript::-1::1678847980::0::1::::enemy<>CharacterBody2D<>::
+icon.svg::CompressedTexture2D::9116294863942109116::1678773310::1678844918::1::::<><>::
+Player.gd::GDScript::-1::1678847197::0::1::::player<>CharacterBody2D<>::
+world.tscn::PackedScene::951798657394342351::1678847864::0::1::::<><>::uid://d25abrpdlfktw<>res://Player.gd<>res://ENEMY.gd<>res://AI.cs

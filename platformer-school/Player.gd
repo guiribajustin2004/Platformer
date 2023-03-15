@@ -18,5 +18,4 @@ func _physics_process(delta):
 	
 	move_and_slide()
 	
-# BOBO MO JUSTIN
-# GWAPO ALLEN
+
